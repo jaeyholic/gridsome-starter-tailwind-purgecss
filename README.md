@@ -2,7 +2,7 @@
 
 > The default starter for [Gridsome](https://gridsome.org), with [Tailwind CSS](https://tailwindcss.com) and PurgeCSS installed to start without struggling with setup.
 
-This starter setup is inspired by [Brandon's post](https://www.brandonpittman.net/tailwind-purge-config/).
+Tailwind CSS and PurgeCSS Config following [Brandon's post](https://www.brandonpittman.net/tailwind-purge-config/).
 
 I'd like to thank [Cosmin](https://github.com/cossssmin) and [Brandon](https://github.com/brandonpittman) who helped me understand the whole setup and make it work correctly.
 
