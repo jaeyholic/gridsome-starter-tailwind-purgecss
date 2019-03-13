@@ -12,5 +12,9 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
     "tailwindcss": "^0.7.4"
-  }
+  },
+  "browserslist": [
+    "last 4 versions",
+    "ie 11"
+  ]
 }
